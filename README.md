@@ -35,9 +35,9 @@ The study proposes a transition to **Dynamic Speed Regulation** through:
 
 The repository includes:
 
-*   road\_safety\_model.py: A Python-based simulation evaluating stopping distances across multiple speeds (20–100 km/h), reaction times (0.8–1.5s), and road conditions (Dry/Wet).
+*   road_safety_detection_distance.ipynb: A Python-based simulation evaluating stopping distances across multiple speeds (20–100 km/h), reaction times (0.8–1.5s), and road conditions (Dry/Wet).
     
-*   Policy\_Brief.pdf: The full comprehensive report optimized for policy evaluation.
+*   road_safety_detection_distance.pdf: The full comprehensive report optimized for policy evaluation.(./road_safety_detection_distance.pdf)
     
 
 ### **References**
